@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\TicaretDemo\Musteri\bin\Debug\Musteri.exe.config
+C:\Users\Asus\source\repos\TicaretDemo\Musteri\bin\Debug\Musteri.exe
+C:\Users\Asus\source\repos\TicaretDemo\Musteri\bin\Debug\Musteri.pdb
+C:\Users\Asus\source\repos\TicaretDemo\Musteri\obj\Debug\Musteri.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\TicaretDemo\Musteri\obj\Debug\Musteri.Form1.resources
+C:\Users\Asus\source\repos\TicaretDemo\Musteri\obj\Debug\Musteri.Properties.Resources.resources
+C:\Users\Asus\source\repos\TicaretDemo\Musteri\obj\Debug\Musteri.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\TicaretDemo\Musteri\obj\Debug\Musteri.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TicaretDemo\Musteri\obj\Debug\Musteri.exe
+C:\Users\Asus\source\repos\TicaretDemo\Musteri\obj\Debug\Musteri.pdb
